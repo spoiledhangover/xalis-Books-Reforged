@@ -9,4 +9,6 @@ Trying to find the enchanted book I wanted in a chest full of it have always bee
 
 I do not include any of the mod support that xalixilax does in the original pack. If you desire those, the original pack is still mostly functional in the current version, and I'd advise you go use that instead. 
 ## Requirement
-****None!**** This pack uses the vanilla CIT support introduced in recent updates. It's fully functional in a vanilla installation
+****None!**** This pack uses the vanilla CIT support introduced in recent updates. It's fully functional in a vanilla installation.
+
+DM me @spoiledhangover on Discord for any reason.
