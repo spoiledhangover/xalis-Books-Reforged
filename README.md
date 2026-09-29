@@ -1,4 +1,4 @@
-![A banner featuring some of the book textures in the pack by xalixilax.](https://cdn.modrinth.com/data/cached_images/677b15fb3b7e6dc56f0375f9c373e7e53778325d.png)
+![A banner featuring some of the book textures in the pack by xalixilax.](https://cdn.modrinth.com/data/cached_images/3e85dc2667cb220ee338f0a1ae09445da3dbb131.png)
 
 # xali's Enchanted Books Reforged
 This is one of my favorite resource packs, but unfortunately it's missing some features, and is broken in some modpacks in the current version. I want to mantain this pack so I can keep it for myself, and for others fans of xali's work. I will likely take this down as soon as xali supports it again, but until then I will use their license to do it myself.
