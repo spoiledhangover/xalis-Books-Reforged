@@ -11,4 +11,10 @@ I do not include any of the mod support that xalixilax does in the original pack
 ## Requirement
 ****None!**** This pack uses the vanilla CIT support introduced in recent updates. It's fully functional in a vanilla installation.
 
+### Known Issues
+
+- Pack labeled "Broken or Incompatible" on modern versions
+
+Due to recent overhauls in the resource pack format, there is no way to avoid this error without making the pack incompatible with versions before the change without making multiple versions. There's nothing actually wrong with the pack, just ignore the warning and proceed.
+
 DM me @spoiledhangover on Discord for any reason.
